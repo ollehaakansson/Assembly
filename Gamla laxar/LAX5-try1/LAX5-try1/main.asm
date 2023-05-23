@@ -43,8 +43,8 @@ PRINT_DONE:
 
 HW_INIT:
 	ldi r16, 0x0F
-	out PORTB, r16
-	out PORTD, r16
+	out DDRB, r16
+	out DDRD, r16
 	clr r16
-	out PORTA, r16
+	out DDRA, r16
 	ret
