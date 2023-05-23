@@ -1,2 +1,2 @@
 # Assembly
-Skirver assemblykod för en ATMega16A microprocessor
+Skriver assemblykod för en ATMega16A microprocessor för kursen TSEA77
